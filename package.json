@@ -1,0 +1,15 @@
+{
+  "name": "ppp-bank-app",
+  "version": "1.0.0",
+  "description": "A simple banking backend used for the \"ping pong pattern\" TDD exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Craig Sweaton",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
